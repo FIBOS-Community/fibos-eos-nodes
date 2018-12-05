@@ -2,7 +2,10 @@
 
 ## 使用镜像快速下载区块数据
 
-[EOS全节点区块数据快速同步服务](https://eoscleaner.com/Project%20Detail.html)
+站点1：[EOS全节点区块数据快速同步服务](https://eoscleaner.com/Project%20Detail.html)
+
+站点2：[BLOCKS ARCHIVE](https://eosnode.tools/blocks);
+
 
 注： 节点部署在 AWS EC2 上使用下载体验更佳!
 
