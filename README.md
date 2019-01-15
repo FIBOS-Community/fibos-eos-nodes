@@ -4,7 +4,7 @@
 
 站点1：[EOS全节点区块数据快速同步服务](https://eoscleaner.com/Project%20Detail.html)
 
-站点2：[BLOCKS ARCHIVE](https://eosnode.tools/blocks) ([使用日志恢复教程](./nodeos.md))
+站点2：[BLOCKS ARCHIVE](https://eosnode.tools/blocks)
 
 
 注： 节点部署在 AWS EC2 上使用下载体验更佳!
@@ -62,3 +62,6 @@ fibos.start();
 ```
 fibos index.js
 ```
+
+## 其他
+* [使用日志恢复启动教程](./nodeos.md)
